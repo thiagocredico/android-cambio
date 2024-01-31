@@ -1,0 +1,4 @@
+ignore_files:
+  - app/src/androidTest/
+  - app/src/test/
+  - build.gradle

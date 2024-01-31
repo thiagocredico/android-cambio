@@ -1,0 +1,84 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "test_req_1_crie_a_estrutura_inicial_da_tela_com_o_nome_da_aplicacao",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_2_crie_o_componente_de_selecao_de_moedas",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_3_crie_o_componente_de_estado_carregando_moedas",
+      "enabled": true,
+      "identifier": null,
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_4_crie_o_componente_de_estado_selecione_uma_moeda",
+      "enabled": true,
+      "identifier": null,
+      "order": 4,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_5_crie_o_componente_de_estado_aguardando_resposta",
+      "enabled": true,
+      "identifier": null,
+      "order": 5,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_6_crie_o_componente_de_exibicao_das_taxas_de_conversao_das_moedas",
+      "enabled": true,
+      "identifier": null,
+      "order": 6,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_7_criar_classes_que_representam_as_respostas_dos_endpoints_get_symbols_e_latest",
+      "enabled": true,
+      "identifier": null,
+      "order": 7,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_8_realizar_requisicao_ao_endpoint_get_symbols_via_retrofit",
+      "enabled": true,
+      "identifier": null,
+      "order": 8,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_9_realizar_requisicao_ao_endpoint_get_latest_via_retrofit",
+      "enabled": true,
+      "identifier": null,
+      "order": 9,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "test_req_10_teste_instrumentado_verificar_fluxo_de_funcionamento_com_conexao_a_internet",
+      "enabled": true,
+      "identifier": null,
+      "order": 10,
+      "skill_ids": []
+    }
+  ]
+}
